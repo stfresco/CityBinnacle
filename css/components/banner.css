@@ -1,0 +1,19 @@
+.banner{
+ background-image: linear-gradient(-225deg, rgba(135,206,250,0.7), rgba(255,255,224,0.5)), url(../../images/background_cdmx.jpg);
+color: #163000;
+padding:150px 0px;
+background-size: cover;
+background-position:center;
+}
+
+.banner hi{
+ font-size: 50px;
+}
+
+.banner h2{
+ font-size: 30px;
+ font-weight: lighter;
+ opacity: 0.8;
+ margin-bottom: 40px;
+}
+
